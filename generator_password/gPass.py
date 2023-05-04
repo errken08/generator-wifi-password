@@ -2,7 +2,7 @@ import random
 import wifi_qrcode_generator.generator
 
 
-names = ['Abylai', 'Ainur', 'Yelnaz', 'Yernaz', 'Aizere', 'Edil']
+names = ['SSID']
 
 def main():
 	SSID = random.choice(names)
